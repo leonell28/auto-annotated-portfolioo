@@ -239,7 +239,7 @@ sections:
           name: email
           label: gmail
           hideLabel: false
-          placeholder: Your email
+          placeholder: escribe tu gmail
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
