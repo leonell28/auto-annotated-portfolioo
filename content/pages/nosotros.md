@@ -45,7 +45,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/alogo.jpg
+      url: /images/7 sin título_20240904015247.png
       altText: Hero image
     colors: colors-f
     backgroundSize: full
