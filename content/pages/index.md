@@ -14,18 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ¡Bienvenidos a Jóvenes por San Luis!
-    subtitle: >-
-      Somos una lista nueva en la Escuela Técnica N°7 'Dr. Manuel Sadosky',
-      formada por estudiantes como vos, que buscan hacer un cambio real en
-      nuestro centro de estudiantes. Nos lanzamos con un objetivo claro:
-      representar a todos los compañeros y compañeras, escuchando sus ideas y
-      preocupaciones para construir una escuela mejor y más
-      participativa.Nuestro equipo está listo para trabajar con esfuerzo y
-      compromiso, presentando proyectos que impacten de manera positiva en la
-      vida diaria de cada estudiante. Nos representan nuestras mascotas, el
-      mapache y el erizo, que reflejan nuestro espíritu de trabajo en equipo,
-      creatividad y resiliencia.¡Sumate a este nuevo camino y conocé nuestras
-      propuestas para transformar nuestra escuela juntos!
+    subtitle: ''
     styles:
       self:
         height: auto
