@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: 'Que te podemos ofrecer? '
 colors: colors-a
 date: '2021-10-15'
 client: 'Que te podemos ofrecer? '
