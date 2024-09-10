@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: 'mas herramientas '
+title: LISTA228
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
