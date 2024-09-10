@@ -90,7 +90,7 @@ sections:
         - name: Nombre
           label: Nombre
           hideLabel: true
-          placeholder: First Name
+          placeholder: 'Nombre '
           isRequired: true
           width: 1/2
           type: TextFormControl
