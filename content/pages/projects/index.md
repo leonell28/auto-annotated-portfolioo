@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: 'mas herramientas '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
