@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Propuestas
 colors: colors-a
-date: '2024-10-08'
+date: '2024-09-10'
 client: ''
 description: 'En Este apartado, vas a encontrar nuestras propuestas. '
 featuredImage:
