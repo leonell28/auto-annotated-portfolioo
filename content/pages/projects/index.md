@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: LISTA228
+title: LISTA 228
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
