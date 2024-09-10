@@ -42,13 +42,6 @@ sections:
       naturaleza protectora y su capacidad de mantenerse firme, simboliza la
       unidad y la fortaleza que tenemos como grupo.
 
-
-
-
-
-
-      *
-
     actions: []
     media:
       type: ImageBlock
