@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool code project
 colors: colors-a
 date: '2021-10-15'
-client: Que te ofrecemos?
+client: 'Que te podemos ofrecer? '
 description: >-
   En este apartado, vas a poder encontrar lo que te ofrecemos, si llegamos a
   ganar
