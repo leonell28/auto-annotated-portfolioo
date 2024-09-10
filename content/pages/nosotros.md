@@ -4,108 +4,50 @@ title: About
 sections:
   - type: HeroSection
     text: >+
-      ## **¿Qué es un Centro de Estudiantes?**
+      # **Te contamos un poco de nosotros.**
 
 
-      Un Centro de Estudiantes es una organización conformada por alumnos de una
-      escuela o institución educativa que representa los intereses de los
-      estudiantes. Su función principal es ser la voz de los estudiantes ante
-      las autoridades escolares, además de organizar actividades que mejoren la
-      vida escolar.
+      Somos *Jóvenes por San Luis*, una lista formada por estudiantes de la
+      Escuela Técnica N°7 'Dr. Manuel Sadosky' que busca representar y defender
+      los intereses de todos los estudiantes. Nuestro compromiso es lograr una
+      escuela más inclusiva, donde todos se sientan escuchados y valorados. Nos
+      une el deseo de mejorar la vida escolar, con proyectos que surgen de las
+      necesidades reales de nuestros compañeros y compañeras.
 
 
-      ## **Objetivos del Centro de Estudiantes**
+      Nuestro equipo está conformado por jóvenes que entienden lo que significa
+      ser estudiante hoy: desde la falta de recursos hasta la necesidad de
+      contar con espacios más adecuados y actividades que nos representen. Con
+      una mirada cercana y sensible a lo que pasa en nuestra escuela, nos
+      dedicamos a escuchar cada voz y a actuar en consecuencia.
 
 
-      1.  Representación: Defender los derechos y las opiniones de los
-      estudiantes, y asegurarse de que sean escuchados por las autoridades
-      escolares.
+      Trabajamos codo a codo para presentar propuestas que marquen la
+      diferencia, como mejoras en las instalaciones, espacios recreativos, y la
+      creación de nuevas actividades que fomenten el compañerismo y la
+      participación de todos los cursos. Creemos en el esfuerzo colectivo y en
+      que, juntos, podemos hacer de nuestra escuela un lugar mejor, más justo y
+      con oportunidades para todos.
 
 
-      2.  Participación: Fomentar la participación de los estudiantes en la toma
-      de decisiones que afectan la vida escolar.
+      # **NUESTRAS MASCOTAS:**
 
 
-      3.  Organización de actividades: Coordinar eventos como torneos
-      deportivos, jornadas culturales, charlas educativas, y más.
-
-
-      4.  Colaboración: Trabajar en conjunto con profesores y directivos para
-      mejorar el ambiente escolar.
-
-
-      5.  Apoyo académico y social: Proponer iniciativas que ayuden a mejorar el
-      rendimiento académico y el bienestar emocional de los estudiantes.
-
-
-      ## **¿Por qué es importante tener un Centro de Estudiantes?**
-
-
-
-
-      El Centro de Estudiantes es fundamental para promover la participación
-      activa de los alumnos en la vida escolar. Da a los estudiantes una
-      oportunidad para aprender sobre liderazgo, trabajo en equipo y
-      responsabilidad social. Además, es un espacio donde los estudiantes pueden
-      expresar sus ideas, resolver problemas en conjunto y contribuir a mejorar
-      la calidad de su educación.
-
-
-      ## **Funciones del Centro de Estudiantes**
-
-
-      *   Gestión de eventos: Organizar actividades culturales, deportivas, y
-      recreativas.
-
-
-      *   Voz y voto: Representar las opiniones y propuestas de los estudiantes
-      ante la dirección de la escuela.
-
-
-      *   Canal de comunicación: Ser un vínculo entre los alumnos y las
-      autoridades escolares.
-
-
-      *   Promoción de valores: Fomentar el respeto, la solidaridad, y la
-      colaboración entre los estudiantes.
-
-
-      *   Proyectos sociales: Impulsar proyectos que beneficien tanto a la
-      escuela como a la comunidad.
-
-
-      ## **¿Cómo se elige un Centro de Estudiantes?**
-
-
-      El Centro de Estudiantes es elegido por medio de una votación en la que
-      participan todos los estudiantes de la escuela. Los candidatos presentan
-      sus propuestas y, a través de elecciones democráticas, los alumnos eligen
-      a los representantes que conformarán el centro.
-
-
-      Beneficios de formar parte del Centro de Estudiantes
-
-
-      *   Desarrollar habilidades de liderazgo.
-
-
-      *   Aprender a trabajar en equipo.
-
-
-      *   Ganar experiencia en la gestión de proyectos.
-
-
-      *   Participar activamente en la toma de decisiones importantes para la
-      escuela.
-
-
-      *   Ayudar a crear un mejor ambiente escolar para todos.
+      En *Jóvenes por San Luis* nos acompañan dos compañeros muy especiales: un
+      mapache Y un erizo. Estos personajes no son solo una imagen simpática,
+      sino que representan lo que somos como equipo. El mapache, conocido por su
+      inteligencia y capacidad para adaptarse a cualquier situación, refleja
+      nuestra creatividad y determinación para resolver los desafíos que
+      enfrentamos día a día en la escuela. Por otro lado, el erizo, con su
+      naturaleza protectora y su capacidad de mantenerse firme, simboliza la
+      unidad y la fortaleza que tenemos como grupo.
 
 
 
 
 
 
+      *
 
     actions: []
     media:
