@@ -37,7 +37,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/banner.jpg.png
+      url: /images/banner.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
