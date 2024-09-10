@@ -219,7 +219,11 @@ sections:
         borderStyle: solid
   - type: ContactSection
     title: CONTANOS TUS DUDAS Y PROPUESTAS
-    text: I'm look forward to hearing from you.
+    text: |+
+
+
+
+
     form:
       type: FormBlock
       title: Title of the form
