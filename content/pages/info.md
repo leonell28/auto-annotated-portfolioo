@@ -232,7 +232,7 @@ sections:
           name: name
           label: Nombre  y apellido
           hideLabel: false
-          placeholder: Escribe tu nombre
+          placeholder: 'Escribe tu nombre y apellido '
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
