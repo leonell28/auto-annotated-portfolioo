@@ -12,7 +12,11 @@ featuredImage:
   url: /images/bg1.jpg
   altText: Project thumbnail image
 ---
-En *Jóvenes por San Luis* estamos comprometidos con mejorar la vida escolar de todos los estudiantes. Nuestras propuestas están diseñadas para resolver las necesidades diarias de la escuela y generar más oportunidades para vos y tus compañeros. Nos enfocamos en crear espacios donde todos puedan participar y sentirse incluidos. Si querés conocer más detalles de cada uno de nuestros proyectos, podés explorarlos en la sección *Proyectos a presentar*, donde te explicamos nuestras ideas a fondo.
+En *Jóvenes por San Luis*, te ofrecemos un compromiso real con las necesidades de los estudiantes. Somos un equipo que entiende la importancia de trabajar juntos para lograr mejoras significativas en nuestra escuela. Creemos que el esfuerzo compartido y el apoyo mutuo son la clave para avanzar y enfrentar cualquier desafío.
+
+Te ofrecemos más que proyectos: te ofrecemos la certeza de que siempre estaremos cerca, escuchando tus ideas, tus preocupaciones y tus propuestas. Sabemos que la escuela es un lugar donde todos debemos tener las mismas oportunidades y donde cada voz debe ser tomada en cuenta. Nuestro compromiso es crear un ambiente donde la solidaridad y el compañerismo sean pilares fundamentales, para que cada estudiante se sienta parte de algo más grande.
+
+
 
 
 
