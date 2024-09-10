@@ -249,7 +249,7 @@ sections:
           placeholder: 'escribe aquí '
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: Enviar Mensaje
       elementId: contact-form
       styles:
         submitLabel:
