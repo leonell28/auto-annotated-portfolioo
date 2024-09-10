@@ -255,7 +255,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-d
+    colors: colors-f
     backgroundSize: inset
     elementId: ''
     styles:
