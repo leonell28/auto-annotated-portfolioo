@@ -78,7 +78,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Proyectos
+    subtitle: NOSOTROS
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
