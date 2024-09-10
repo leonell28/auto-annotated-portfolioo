@@ -94,7 +94,7 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
+        - name: Apellido
           label: Apellido
           hideLabel: true
           placeholder: Last Name
