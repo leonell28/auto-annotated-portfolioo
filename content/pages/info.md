@@ -230,7 +230,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: 'Nombre '
+          label: Nombre  y apellido
           hideLabel: false
           placeholder: Escribe tu nombre
           width: 1/2
