@@ -187,4 +187,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+  url: /images/Diseño sin título (1).png
 ---
