@@ -246,7 +246,7 @@ sections:
           name: message
           label: 'Escribe  aquí '
           hideLabel: true
-          placeholder: 'escribe aqui '
+          placeholder: 'escribe aquí '
           width: full
           isRequired: true
         - type: CheckboxFormControl
