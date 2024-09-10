@@ -79,65 +79,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Proyectos
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: contanos tus dudas y propuestas
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: Nombre
-          label: Nombre
-          hideLabel: true
-          placeholder: 'Nombre '
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: Apellido
-          label: Apellido
-          hideLabel: true
-          placeholder: Apellido
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 backgroundImage:
   type: BackgroundImage
   backgroundSize: cover
