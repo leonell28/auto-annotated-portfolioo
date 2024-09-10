@@ -101,13 +101,6 @@ sections:
           isRequired: false
           width: 1/2
           type: TextFormControl
-        - type: TextFormControl
-          name: 'ESCRBI TUS PROPUESTAS O DUDAS '
-          label: Name
-          hideLabel: false
-          placeholder: Your name
-          width: full
-          isRequired: false
         - name: email
           label: Email
           hideLabel: true
