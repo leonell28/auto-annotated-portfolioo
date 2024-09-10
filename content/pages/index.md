@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ¡Bienvenidos a Jóvenes por San Luis!
+    title: ''
     subtitle: ''
     styles:
       self:
