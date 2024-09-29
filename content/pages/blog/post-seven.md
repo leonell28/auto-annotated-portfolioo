@@ -1,10 +1,9 @@
 ---
 type: PostLayout
-title: Habits of highly productive web developers ⌨️
+title: 'proyectos a presentar '
 colors: colors-a
-date: '2024-10-01'
-author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+date: '2024-01-10'
+excerpt: proyectos a presentar
 featuredImage:
   type: ImageBlock
   url: /images/cProyectos-a-Presentar.jpg
@@ -16,110 +15,238 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 20
-bottomSections:
-  - elementId: ''
-    type: RecentPostsSection
-    colors: colors-f
-    variant: variant-d
-    subtitle: Recent posts
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 2
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    showFeaturedImage: true
-    showReadMoreLink: true
-  - type: ContactSection
-    backgroundSize: full
-    title: Stay up-to-date with my words ✍️
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+bottomSections: []
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-## Good habits
+# Infraestructura y Recursos
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+1.  Extensión del patio en el ala este de la escuela para crear un espacio para tomar mates, leer libros y socializar.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+2.  Mejora de las aulas: Reparación de butacas, ventiladores, pizarras, etc.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+3.  Restauración de baños y provisión de artículos de higiene (jabón, papel higiénico, etc.).
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+4.  Canchas deportivas: Restauración y provisión de insumos deportivos.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+5.  Creación de un espacio de esparcimiento para que los estudiantes puedan relajarse durante los recreos.
+
+6.  Calendario estratégico para organizar todas las actividades escolares de manera eficiente.
+
+# Eventos Culturales
+
+Club de lectura: Fomentar el hábito de la lectura mediante reuniones periódicas.
+
+Festival cultural: Un evento con arte, música, danza y stands de comida para recaudar fondos.
+
+Feria de talentos: Espacio para que los estudiantes muestren sus habilidades artísticas o deportivas.
+
+Ferias de libros: Intercambio de libros y lecturas en vivo.
+
+Creación de un grupo de teatro o danza: Fomentar la expresión artística mediante presentaciones.
+
+Talleres de arte y manualidades para promover la creatividad.
+
+Proyecto de preservación de la lengua materna: Promover el uso de lenguas nativas en la escuela.
+
+
+
+Feria de comida internacional para celebrar la diversidad cultural y promover el intercambio cultural.
+
+1.  Talleres de escritura creativa: Fomentar la creatividad literaria.
+
+2.  Creación de una revista estudiantil para promocionar logros y emprendimientos.
+
+# Deportes y Recreación
+
+1.  Torneos deportivos internos y externos: Organizar competencias entre estudiantes y con otros centros educativos para fomentar la actividad física y el trabajo en equipo.
+
+2.  Caminatas y excursiones: Organizar excursiones a parques o áreas naturales cercanas para que los estudiantes disfruten de la naturaleza y fomenten el ejercicio.
+
+3.  Olimpiadas escolares: Competencias deportivas dentro de la escuela en varias disciplinas para promover la competencia sana.
+
+4.  Club de deportes: Crear un club de deportes que permita a los estudiantes participar en diversas disciplinas y mejorar su condición física.
+
+5.  Organización de eventos recreativos como torneos de juegos de mesa, campeonatos de fútbol o voleibol para fomentar la convivencia y la diversión.
+
+# Innovación y Tecnología
+
+Club de robótica: Fomentar el interés por la robótica y la tecnología mediante la creación de un club donde los estudiantes puedan aprender y competir en proyectos.
+
+1.  Talleres de programación y desarrollo web: Enseñar a los estudiantes habilidades de programación y diseño de sitios web, preparándolos para el mundo digital.
+
+2.  Laboratorio de makers: Crear un espacio con herramientas y recursos para que los estudiantes desarrollen proyectos tecnológicos y manualidades.
+
+3.  Talleres de inteligencia artificial y machine learning: Ofrecer cursos para explorar nuevas tecnologías como la inteligencia artificial y el aprendizaje automático.
+
+4.  Desarrollo de una aplicación móvil escolar: Crear una app que centralice la información sobre eventos, noticias y recursos escolares.
+
+5.  Creación de un equipo de competencias tecnológicas para participar en competencias intercolegiales de tecnología y programación.
+
+6.  Talleres de realidad virtual y aumentada para explorar nuevas formas de aprendizaje y entretenimiento.
+
+# Sostenibilidad y Medio Ambiente
+
+1.  Programa de reciclaje: Implementar un sistema de reciclaje en la escuela donde los estudiantes participen en la recolección y clasificación de residuos reciclables.
+
+2.  Huerta y compost: Crear una huerta escolar donde los estudiantes cultiven hortalizas y aprendan sobre el compostaje y la sostenibilidad.
+
+3.  Proyecto de reforestación: Organizar un proyecto de plantación de árboles para promover la reforestación y el cuidado del medio ambiente.
+
+4.  Creación de un jardín sostenible: Diseñar un jardín escolar con plantas autóctonas que promuevan la biodiversidad y prácticas de jardinería sostenible.
+
+5.  Talleres de educación ambiental: Ofrecer talleres sobre conservación del agua, reducción de residuos y prácticas sostenibles para educar a los estudiantes.
+
+6.  Campaña de reducción de plásticos: Implementar medidas para 
+
+7.   para reducir el uso de plásticos en la escuela.
+
+8.  Monitoreo de la calidad del aire y del agua: Implementar un proyecto para medir la calidad del aire y el agua en la escuela y la comunidad.
+
+# Bienestar y Salud
+
+1.  Programa de apoyo emocional: Implementar un sistema de apoyo emocional para estudiantes que enfrenten dificultades personales o académicas.
+
+2.  Talleres de manejo del estrés y la ansiedad: Ofrecer talleres donde los estudiantes aprendan técnicas para manejar el estrés y la ansiedad.
+
+3.  Charlas de educación sexual integral (ESI): Organizar charlas para promover la educación
+
+sexual integral según la Ley 26.150.
+
+Creación de un espacio de relajación: Habilitar un lugar en la escuela para que los estudiantes puedan relajarse y desestresarse durante el día escolar.
+
+Programa de salud mental: Actividades y charlas enfocadas en promover la salud mental y el bienestar emocional de los estudiantes.
+
+Talleres de nutrición y bienestar físico: Ofrecer talleres que promuevan una alimentación saludable y el bienestar físico en los estudiantes.
+
+Capacitaciones en primeros auxilios y RCP: Brindar capacitaciones a la comunidad educativa para saber actuar en caso de emergencias.
+
+Integración de una enfermería escolar: Implementar un servicio de atención médica en la escuela para atender emergencias y prevenir enfermedades.
+
+# Responsabilidad Social
+
+1.  Voluntariado estudiantil: Organizar actividades de voluntariado donde los estudiantes puedan participar en proyectos comunitarios y ayudar a mejorar su entorno.
+
+2.  Campaña de recaudación de fondos: Organizar bingos, sorteos, ventas de comida o eventos especiales para recaudar fondos que se destinen a causas sociales o benéficas.
+
+3.  Banco de alimentos: Crear un programa para recolectar alimentos no perecederos y distribuirlos entre estudiantes que lo necesiten o donarlos a organizaciones benéficas.
+
+4.  Intercambio cultural: Fomentar el intercambio cultural con estudiantes de otras regiones o países para promover el entendimiento intercultural.
+
+5.  Campaña de concienciación sobre la inclusión: Organizar actividades para sensibilizar a la comunidad escolar sobre la importancia de la diversidad y la inclusión.
+
+6.  Ropero solidario: Implementar un programa para recolectar ropa y artículos necesarios para
+
+7.  estudiantes que lo necesiten.
+
+8.  Programa de tutoría entre pares: Establecer un sistema de tutoría donde estudiantes de grados superiores ayuden a los más jóvenes con sus estudios.
+
+9.  Día de servicio comunitario: Organizar un día en el que los estudiantes realicen labores comunitarias como limpieza de parques o colaboración en comedores sociales.
+
+# ** otras: **
+
+*   Organizar clubes y actividades extracurriculares en las tardes en diferentes áreas (lectura, periodismo, música, informática…).
+
+<!---->
+
+*   Realizar conversatorios y actividades dirigidas a los alumnos, con temas relacionados con la autoestima, crecimiento e higiene personal.
+
+<!---->
+
+*   Elaborar actividades y campañas, como el desarrollo de murales, que promuevan el reciclaje y la reducción de la basura en el plantel educativo.
+
+<!---->
+
+*   Estructurar un calendario estratégico que guíe al colegio de forma organizada para las diferentes actividades que se tengan contempladas.
+
+<!---->
+
+*   Mejorar las condiciones de los diferentes componentes de las aulas (butacas y ventiladores…).
+
+<!---->
+
+*   .Realizar bingos, sorteos y otras actividades para recolectar fondos.
+
+<!---->
+
+*   Crear una revista estudiantil donde se promocionen los emprendimientos y los logros de los estudiantes de la institución.
+
+<!---->
+
+*   Crear un Carnet de Identificación Estudiantil para cada uno de los estudiantes y los visitantes.
+
+*   Realizar una Jornada de Limpieza y Embellecimiento: dedicar un día a la limpieza y embellecimiento de la escuela y sus alrededores.
+
+<!---->
+
+*   Ofrecer clases de apoyo: organizar clases de apoyo gratuitas después de la escuela para ayudar a los estudiantes con dificultades académicas.
+
+<!---->
+
+*   Organizar un Día de Servicio Comunitario: un día en el que los estudiantes puedan unirse para realizar trabajos de servicio en la comunidad.
+
+<!---->
+
+*   Establecer un Banco de Libros Usados: programa de intercambio de libros usados entre estudiantes para promover la lectura y reducir los costos.
+
+<!---->
+
+*   Invitar a "Estudiantes por un Día" de otras escuelas para fomentar la interacción y la diversidad.
+
+<!---->
+
+*   Implementar un "Proyecto Pared" de Arte Efímero: destinar una pared en la escuela donde los estudiantes puedan expresar sus pensamientos y creatividad con arte temporal.
+
+<!---->
+
+*   Crear un Programa de Amigos de Intercambio: vincular a estudiantes locales con estudiantes internacionales para promover la comprensión cultural.
+
+<!---->
+
+*   Establecer un "Banco de Comida": recopilar alimentos no perecederos para crear un banco de alimentos en la escuela para estudiantes necesitados.
+
+<!---->
+
+*   Celebrar el "Día del Aprecio del Personal de Limpieza" con eventos especiales para reconocer y agradecer a los miembros del personal de limpieza de la escuela.
+
+<!---->
+
+*   Organizar clubes y actividades extracurriculares en las tardes en diferentes áreas (lectura, periodismo, música, informática…).
+
+<!---->
+
+*   Realizar conversatorios y actividades dirigidas a los alumnos, con temas relacionados con la autoestima, crecimiento e higiene personal.
+
+<!---->
+
+*   Organizar una semana de concienciación sobre la salud sexual.
+
+<!---->
+
+*   Organizar un festival de música y arte dentro de la escuela.
+
+<!---->
+
+*   Realizar olimpiadas dentro del plantel educativo.
+
+<!---->
+
+*   Trabajar en proyectos interdisciplinarios.
+
+<!---->
+
+*   Dar charlas y talleres, así como conferencias sobre tecnología o materias de la currícula de la escuela.
+
+<!---->
+
+*   Organizar eventos de recaudación de fondos como fiestas, conciertos, subastas silenciosas, ferias de comida o venta de entradas para recaudar fondos.
+
+<!---->
+
+*   Monitorear las viandas y meriendas para garantizar que toda la comida esté en buen estado.
+
+
+
+
+
+
