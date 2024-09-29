@@ -3,7 +3,7 @@ type: PostLayout
 title: 'proyectos a presentar '
 colors: colors-a
 date: '2024-01-10'
-excerpt: p
+excerpt: proyectos a presentar
 featuredImage:
   type: ImageBlock
   url: /images/cProyectos-a-Presentar.jpg
