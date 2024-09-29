@@ -1,20 +1,13 @@
 ---
 type: PostLayout
 title: 'proyectos a presentar '
-colors: colors-a
+colors: colors-c
 date: '2024-01-10'
 excerpt: proyectos a presentar
 featuredImage:
   type: ImageBlock
   url: /images/cProyectos-a-Presentar.jpg
   altText: Post thumbnail image
-backgroundImage:
-  type: BackgroundImage
-  url: /images/gallery-3.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 20
 bottomSections: []
 ---
 
