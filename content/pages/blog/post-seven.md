@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'proyectos a presentar '
-colors: colors-a
+colors: colors-c
 date: '2024-01-10'
 excerpt: proyectos a presentar
 featuredImage:
